@@ -112,13 +112,15 @@
 }
 
 .getaquotebox input, label {
-    margin: 10px;
+
 }
 
 .getaquotebox p.description {
     margin: 20px;
-    color: #cc3333;
+    color: #fff;
     font-size: 20px;
+    border: 1px solid white;
+    padding: 4px;
 }
 
 .
