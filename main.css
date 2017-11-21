@@ -47,8 +47,12 @@
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     background-size: cover;
-    background-color:#fff;
+    background-color:#f34;
     
+}
+.getaquote img {
+    margin-top: auto;
+    margin-bottom: auto;
 }
 .nav-pills>li>a {
     line-height: 70px;
@@ -156,11 +160,10 @@ ul.navigationlinks {
     text-decoration-style: none;
 }
 
-img.navbar-brand.headerimg {
-    width: 300px;
-    height: auto;
-    padding: 0;
+img.headerimage {
+    width: 250px;
 }
+
 
 .imagesOfSuppliers img {
     height: 100px;
@@ -177,7 +180,7 @@ img.navbar-brand.headerimg {
 }
 
 .navbar-nav li a {
- line-height: 50px;
+ line-height: 10px;
 }
 
 .navbar.navbar-default {
