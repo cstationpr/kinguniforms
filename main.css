@@ -43,10 +43,11 @@
 
 
 .getaquote {
-    height: 400px;
-    background-image: url(images/backgroundquote.jpg);
+    height: auto;;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
     background-size: cover;
-    background-color:#336699;
+    background-color:#fff;
     
 }
 .nav-pills>li>a {
@@ -74,8 +75,6 @@
 }
 
 .getaquotetext {
-    margin-top: 8%;;
-    margin-bottom: auto;
     color: #ffcc33;
     padding: 10px
 }
@@ -89,7 +88,7 @@
     font-size: 20px;
     margin-right: 20px;
     margin-left: 20px;
-    margin-top: 20px;
+
     
 }
 .block {
@@ -170,7 +169,7 @@ img.navbar-brand.headerimg {
 }
 
 .row {
-    margin-bottom: 30px;
+
 }
 
 .headerimg {
@@ -192,3 +191,4 @@ img.navbar-brand.headerimg {
     display: inline;
     margin-top: 100px;
 }
+
