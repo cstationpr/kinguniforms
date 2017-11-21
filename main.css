@@ -1,0 +1,194 @@
+.border {
+    width: 100%;
+    border: 1px solid black;
+}
+
+.backgroundimg {
+    background-image: url(images/Background-King-on-King.png);
+    background-repeat: repeat;
+}
+
+.contactus .glyphicon {
+    font-size: 30px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.contactus p.h2 {
+    color:#336699;
+}
+
+.contactus p.inline {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.embroideryimage {
+    background-image: url(images/Embroidery-Service-Image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.workuniformimage {
+    background-image: url(images/Work-Uniforms-Background.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
+
+#title {
+    color: white;
+}
+
+
+
+.getaquote {
+    height: 400px;
+    background-image: url(images/backgroundquote.jpg);
+    background-size: cover;
+    background-color:#336699;
+    
+}
+.nav-pills>li>a {
+    line-height: 70px;
+    color: #Fff;
+    font-size: 18px;
+}
+
+.nav-pills>li>a:hover {
+    color: #cc3333;
+}
+
+.footer {
+    background-color: black;
+    color: white;"
+}
+
+.footer li {
+    list-style-type: none;
+}
+
+.footer-logo {
+    width: 300px;
+    margin: auto;
+}
+
+.getaquotetext {
+    margin-top: 8%;;
+    margin-bottom: auto;
+    color: #ffcc33;
+    padding: 10px
+}
+
+.getaquotetext p {
+    font-size: 36px;
+    font-family: "Helvetica";
+}
+
+.getaquotetext button {
+    font-size: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.block {
+    display: block;
+}
+
+.inline {
+    display: inline;
+}
+.getaquotebox {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 30px;
+    background-color: #003366;
+    border: 10px solid white;
+    color: #fff;
+}
+
+.getaquotebox input, label {
+    margin: 10px;
+}
+
+.getaquotebox p.description {
+    margin: 20px;
+    color: #cc3333;
+    font-size: 20px;
+}
+
+.
+
+.navigationlinks {
+    list-style-type: none;
+    text-align: center;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul.navigationlinks {
+    padding-left: 0px;
+    font-size: 16px;
+}
+
+.iconclick {
+    margin-top: 30px;
+    border: 1px solid white
+}
+.iconclickbottom {
+    margin-bottom: 30px;
+}
+.iconclick:hover{
+    background-color: #f0f0f0;
+    text-transform: none;
+    border: 1px solid black;
+}
+
+.iconclick h3 {
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.iconclick:hover h3{
+    color: #cc3333;
+    text-decoration: none;
+    text-decoration-style: none;
+}
+
+img.navbar-brand.headerimg {
+    width: 300px;
+    height: auto;
+    padding: 0;
+}
+
+.imagesOfSuppliers img {
+    height: 100px;
+    width: auto;
+    padding: 20px;
+}
+
+.row {
+    margin-bottom: 30px;
+}
+
+.headerimg {
+
+}
+
+.navbar-nav li a {
+ line-height: 50px;
+}
+
+.navbar.navbar-default {
+    background-color: black;
+}
+
+.labelposition {
+}
+
+.inputposition {
+    display: inline;
+    margin-top: 100px;
+}
