@@ -213,3 +213,6 @@ img.headerimage {
     margin-top: 100px;
 }
 
+.container .navbar-brand {
+    display: none;
+}
