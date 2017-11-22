@@ -6,6 +6,7 @@
 .backgroundimg {
     background-image: url(images/Background-King-on-King.jpg);
     background-repeat: repeat;
+    background-size: contain;
 }
 
 .contactus .glyphicon {
@@ -18,6 +19,10 @@
     color:#336699;
 }
 
+.colorblue {
+    color:#336699;
+}
+
 .contactus p.inline {
     font-size: 20px;
     font-weight: bold;
@@ -27,6 +32,10 @@
     background-image: url(images/Embroidery-Service-Image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.formiteminterest {
+    margin-bottom: -10px;
 }
 
 .workuniformimage {
@@ -66,7 +75,9 @@
 
 .footer {
     background-color: black;
-    color: white;"
+    color: white;
+    padding-top: 10px;
+    margin-top: 30px;
 }
 
 .footer li {
@@ -190,6 +201,11 @@ img.headerimage {
 }
 
 .labelposition {
+}
+
+.textareaformat textarea {
+    width: 100%;
+    border-radius: 5px;
 }
 
 .inputposition {
